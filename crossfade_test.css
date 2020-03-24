@@ -49,7 +49,7 @@ h2{
 }
 #crossfade {
     position:relative;
-    height:60.0rem;
+    height:70.0rem;
     width:100%;
 	display:block;
 	overflow:hidden;
@@ -75,7 +75,7 @@ h2{
 }
 .crossfade-overlay{
 	width: 14.0rem;
-	height: 60.0rem;
+	height: 70.0rem;
 	/*display:block;*/
 	background-color: #1e1d1b;
 	opacity: 0.75;
